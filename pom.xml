@@ -38,7 +38,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>tasks</finalName>
+		<finalName>tasks-frontend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
